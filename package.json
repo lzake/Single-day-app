@@ -1,0 +1,10 @@
+{
+    "name": "TacosLocos",
+    "productName": "Tacos Locos",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^1.6.11",
+        "electron-packager": "^8.1.0"
+    }
+}
